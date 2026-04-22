@@ -66,8 +66,22 @@ Phishing-Url-Detection/
 ├── README.md
 ├── requirements.txt
 ```
+# EXPLORE CODE
+
+- 🔧 Training Script → [src/train.py](src/train.py)
+- 🔍 Prediction Script → [src/predict.py](src/predict.py)
+- ⚙️ Feature Engineering → [src/features.py](src/features.py)
 
 ---
+
+##  How it Works
+
+1. Extract features from URL  
+2. Convert to numerical format  
+3. Pass into trained Random Forest model  
+4. Output prediction (Phishing / Legitimate)
+
+
 
 ## ▶️ How to Run
 
