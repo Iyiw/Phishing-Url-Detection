@@ -68,10 +68,8 @@ Phishing-Url-Detection/
 ```
 # EXPLORE CODE
 
-- 🔧 Training Script → [src/train.py](src/train.py)
-- 🔍 Prediction Script → [src/predict.py](src/predict.py)
-- ⚙️ Feature Engineering → [src/features.py](src/features.py)
-
+- Full Model Implementation ->
+- [phishing.py](phishing.py)
 ---
 
 ##  How it Works
@@ -85,25 +83,7 @@ Phishing-Url-Detection/
 
 ## ▶️ How to Run
 
-### 1️⃣ Install Dependencies
-
-```bash
-pip install -r requirements.txt
-```
-
-### 2️⃣ Train Model
-
-```bash
-python src/train.py
-```
-
-### 3️⃣ Predict URL
-
-```bash
-python src/predict.py
-```
-
----
+python phishing.py
 
 ## 🔍 Example
 
