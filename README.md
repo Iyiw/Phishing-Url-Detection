@@ -55,17 +55,12 @@ assets/feature_importance.png
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
+|-- phishing.py
+|-- README.md
+|-- requirements.txt
+|-- assets 
 
-```bash
-Phishing-Url-Detection/
-│
-├── src/        # Source code
-├── model/      # Trained model
-├── assets/     # Visualizations
-├── README.md
-├── requirements.txt
-```
 # EXPLORE CODE
 
 - Full Model Implementation ->
